@@ -14,7 +14,6 @@ section img {
 
 .margin {
     margin-right: 100px;
-    margin-top: 50px;
 }
 
 .heading {
@@ -35,9 +34,10 @@ section img {
     padding: 10px;
     border-radius: 10px;
     color: white;
+
 }
 
-#centre {
+.centre {
     text-align: center;
 }
 
@@ -84,6 +84,5 @@ section img {
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 20%;
-    margin-top: 100px;
     margin-bottom: 0;
 }
